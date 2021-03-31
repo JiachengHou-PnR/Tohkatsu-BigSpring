@@ -1,15 +1,9 @@
-######################## default configuration ####################
-baseURL = "http://examplesite.org/"
-title = "Bigspring Hugo"
-theme = "bigspring"
-# post pagination
+baseURL = "https://tohkatsu-bigspring.netlify.app/\n"
+disqusShortname = ""
+googleAnalytics = ""
 paginate = "3"
-# post excerpt
 summaryLength = "15"
-# disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
-# google analytics
-googleAnalytics = "" # example : UA-123-45
-# unsafe html
+theme = "bigspring"
+title = "东葛树脂 (天津) - Tohkatsu Plastic (Tianjin) | 模具设计制作、注塑成形、涂装蒸着"
 [markup.goldmark.renderer]
 unsafe = true
