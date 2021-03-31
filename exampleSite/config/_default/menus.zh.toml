@@ -30,7 +30,7 @@ name = "首页"
 url = "/"
 weight = 1
 [[main]]
-name = "Blog"
+name = "最新动态"
 url = "blog"
 weight = 2
 [[main]]
