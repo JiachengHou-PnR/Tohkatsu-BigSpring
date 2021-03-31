@@ -17,28 +17,28 @@ url = "#"
 name = "Features"
 url = "#"
 [[footer_right]]
-name = "Privacy Policy"
+name = "隐私政策"
 url = "privacy-policy"
 [[footer_right]]
-name = "Terms & Conditions"
+name = "网站条款"
 url = "terms-conditions"
 [[footer_right]]
-name = "FAQ"
+name = "常见问题"
 url = "faq"
 [[main]]
 name = "首页"
 url = "/"
 weight = 1
 [[main]]
-name = "最新动态"
+name = "动态"
 url = "blog"
 weight = 2
 [[main]]
-name = "Pricing"
+name = "价格"
 url = "pricing"
 weight = 3
 [[main]]
-name = "联系我们"
+name = "联络"
 url = "contact"
 weight = 4
 [[main]]
