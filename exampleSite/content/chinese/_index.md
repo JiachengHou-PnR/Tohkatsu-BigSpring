@@ -1,6 +1,6 @@
 ---
 banner:
-  title: 从模具设计到涂装蒸着 <br> 精密树脂部品成形一站式服务
+  title: 从模具设计到涂装蒸着 <br> 精密树脂部品一站式服务
   image: images/banner-art.svg
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
     maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
