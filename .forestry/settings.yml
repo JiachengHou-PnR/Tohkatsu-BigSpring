@@ -9,10 +9,9 @@ sections:
 - type: document
   path: exampleSite/content/chinese/_index.md
   label: Homepage (Zh)
-  match: "**/*"
 - type: document
   path: exampleSite/content/english/_index.md
-  label: Homepage (en)
+  label: Homepage (En)
 - type: document
   path: exampleSite/content/japanese/_index.md
   label: Homepage (Ja)
