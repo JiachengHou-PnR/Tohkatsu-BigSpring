@@ -18,7 +18,7 @@ footer_menu_middle = "Product"
 footer_menu_right = "Support"
 languageName = "日本語"
 title = "東葛樹脂（天津）有限公司"
-weight = 1
+weight = 2
 
 [zh]
 contentDir = "content/chinese"
