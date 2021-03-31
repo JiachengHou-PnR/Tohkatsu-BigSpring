@@ -7,11 +7,15 @@ sections:
 - type: heading
   label: Homepage
 - type: document
+  path: exampleSite/content/chinese/_index.md
+  label: Homepage (Zh)
+  match: "**/*"
+- type: document
   path: exampleSite/content/english/_index.md
   label: Homepage (en)
 - type: document
-  path: exampleSite/content/deutsch/_index.md
-  label: Homepage (de)
+  path: exampleSite/content/japanese/_index.md
+  label: Homepage (Ja)
 - type: heading
   label: Blog
 - type: document
@@ -83,11 +87,9 @@ sections:
 - type: document
   path: exampleSite/config/_default/menus.zh.toml
   label: Menu (Zh)
-  match: "**/*"
 - type: document
   path: exampleSite/config/_default/menus.ja.toml
   label: Menu (Ja)
-  match: "**/*"
 - type: document
   path: exampleSite/config/_default/menus.en.toml
   label: Menu (en)
