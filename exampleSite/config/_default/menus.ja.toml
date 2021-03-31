@@ -1,65 +1,47 @@
-# main menu
+[[footer_left]]
+name = "About Us"
+url = "#"
+[[footer_left]]
+name = "Quick Start"
+url = "#"
+[[footer_left]]
+name = "Pricing"
+url = "pricing"
+[[footer_middle]]
+name = "Pricing"
+url = "pricing"
+[[footer_middle]]
+name = "Platform"
+url = "#"
+[[footer_middle]]
+name = "Features"
+url = "#"
+[[footer_right]]
+name = "個人情報保護方針"
+url = "privacy-policy"
+[[footer_right]]
+name = "ご利用条件"
+url = "terms-conditions"
+[[footer_right]]
+name = "よくあるご質問"
+url = "faq"
 [[main]]
-name = "Home"
+name = "ホーム"
 url = "/ja"
 weight = 1
-
 [[main]]
-name = "Blog"
+name = "更新情報"
 url = "blog"
 weight = 2
-
 [[main]]
 name = "Pricing"
 url = "pricing"
 weight = 3
-
 [[main]]
-name = "Contact"
+name = "お問い合わせ"
 url = "contact"
 weight = 4
-
 [[main]]
 name = "FAQ"
 url = "faq"
 weight = 5
-
-# footer menu left
-[[footer_left]]
-name = "About Us"
-url = "#"
-
-[[footer_left]]
-name = "Quick Start"
-url = "#"
-
-[[footer_left]]
-name = "Pricing"
-url = "pricing"
-
-
-# footer menu middle
-[[footer_middle]]
-name = "Pricing"
-url = "pricing"
-
-[[footer_middle]]
-name = "Platform"
-url = "#"
-
-[[footer_middle]]
-name = "Features"
-url = "#"
-
-# footer menu right
-[[footer_right]]
-name = "Privacy Policy"
-url = "privacy-policy"
-
-[[footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions"
-
-[[footer_right]]
-name = "FAQ"
-url = "faq"
